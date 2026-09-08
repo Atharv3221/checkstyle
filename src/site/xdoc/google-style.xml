@@ -416,6 +416,9 @@
                 <td>
                   <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources/com/google/checkstyle/test/chapter3filestructure/rule32packagestatement">
                     samples</a>
+                  <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources-noncompilable/com/google/checkstyle/test/chapter3filestructure/rule32packagestatement">
+                    samples
+                  </a>
                 </td>
               </tr>
               <tr>
@@ -2116,6 +2119,8 @@
                 <td>
                   <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources/com/google/checkstyle/test/chapter5naming/rule526parameternames">
                     samples</a>
+                  <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources-noncompilable/com/google/checkstyle/test/chapter5naming/rule526parameternames">
+                    samples</a>
                 </td>
               </tr>
               <tr>
@@ -2156,6 +2161,8 @@
                 </td>
                 <td>
                   <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources/com/google/checkstyle/test/chapter5naming/rule527localvariablenames">
+                    samples</a>
+                  <a href="https://github.com/checkstyle/checkstyle/tree/master/src/it/resources-noncompilable/com/google/checkstyle/test/chapter5naming/rule527localvariablenames">
                     samples</a>
                 </td>
               </tr>
